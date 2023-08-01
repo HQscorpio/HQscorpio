@@ -1,5 +1,13 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/HQ_scorpio" target="_blank">hq_scorpio</a> 
+```c++
+#include iostream
 
+using namespace std;
 
-#[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=information+security+student)](https://git.io/typing-svg)
-information security student
+int main() {
+    cout << "Hi there, I'm hq_scorpio" << endl;
+    cout << "an information security student" << endl;
+    cout << "16 years old" << endl;
+    cout << "I am using arch linux" << endl;
+    cout << "telegram:  https://t.me/HQ_scorpio" << endl;
+}
+```
