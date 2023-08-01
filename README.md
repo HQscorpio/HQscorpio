@@ -8,7 +8,7 @@ int main() {
     cout << "an information security student" << endl;
     cout << "16 years old" << endl;
     cout << "Russia" << endl;
-    cout << "I am using arch linux" << endl;
+    cout << "using arch linux" << endl;
     cout << "telegram:  https://t.me/HQ_scorpio" << endl;
 }
 ```
